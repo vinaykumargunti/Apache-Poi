@@ -2,7 +2,7 @@ package apachePoi;
 
 import java.util.Scanner;
 
-public class ApachePoi {
+public class ApachePoi2 {
 
 	public static void main(String[] args) {
 
@@ -10,7 +10,6 @@ public class ApachePoi {
 		int n = sc.nextInt();
 		double y = (double) n;
 		double x = 1 / y;
-		System.out.println("Vinay");
 		String s = Double.toString(x);
 		int temp = 1;
 		for (int i = 2; i <= s.length() - 3; i++) {
