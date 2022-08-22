@@ -9,7 +9,7 @@ public class ApachePoi {
 		Scanner sc = new Scanner(System.in);
 		int n = sc.nextInt();
 		double y = (double) n;
-		System.out.println("Vinay");
+		System.out.println("VinayK");
 		double x = 1 / y;
 		System.out.println("Vinay");
 		String s = Double.toString(x);
